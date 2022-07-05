@@ -1,5 +1,5 @@
 <footer class="footer text-center">
-            <div class="container">
+    <div class="container">
                 <div class="row">
                     <!-- Footer Location-->
                     <div class="col-lg-4 mb-5 mb-lg-0">
@@ -28,5 +28,5 @@
                         </p>
                     </div>
                 </div>
-            </div>
-        </footer>
+    </div>
+</footer>
